@@ -1,0 +1,1 @@
+This code makes the current webpage you are browsing, go insane. 

@@ -1,0 +1,1 @@
+This piece of code pulls off all the images from your web page and rotates them in a circle. Really makes any page go naked (without its images). The best place to test is a website with many images. (Google Images for an example)

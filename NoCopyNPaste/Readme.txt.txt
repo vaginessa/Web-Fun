@@ -1,0 +1,1 @@
+With This Code, You can lock the right click mouse and user or visitors can not copy and paste the info and pictures on your website. 

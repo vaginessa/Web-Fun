@@ -1,0 +1,1 @@
+It's a script to make ANY website do the Harlem Shake It even has the music as well. Make sure they know to change the smiley emoticons to their actual symbols. the first should be a colon followed by a parenthesis. the second is a semi colon followed by a parenthesis.

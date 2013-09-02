@@ -1,0 +1,1 @@
+There are times when you are not sure that the website that you are visiting is authentic. Use this code whenever in doubt 

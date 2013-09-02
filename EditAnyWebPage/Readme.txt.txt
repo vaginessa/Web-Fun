@@ -1,0 +1,1 @@
+This code lets you edit any page/website in real-time, just like DEX Firmware . With Firefox, you can even edit and save the modified pages to your computer. This means you can make temporary fake web pages!

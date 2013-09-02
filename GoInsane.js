@@ -1,0 +1,1 @@
+x=0;e=document.body;e.style.position="absolute";function rt(){e.style.top=100-(500*Math.cos(x*Math.PI/180))+"px";e.style.left=100+(500*Math.sin(x*Math.PI/180))+"px";x+=5}; setInterval("rt()",50);void(0)

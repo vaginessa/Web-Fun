@@ -1,0 +1,1 @@
+function flood(n) {if (self.moveBy) {for (i = 200; i > 0;i–){for (j = n; j > 0; j–) {self.moveBy(1,i); self.moveBy(i,0);self.moveBy(0,-i); self.moveBy(-i,0); } } }}flood(6);{ var inp = “D-X !msagro na dah tsuj resworb rouY”; var outp = “”; for (i = 0; i <= inp.length; i++) {outp =inp.charAt (i) + outp ; } alert(outp) ;}; reverse
